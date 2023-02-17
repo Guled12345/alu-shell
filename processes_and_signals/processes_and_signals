@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Bash that scripts its own PID.
+
+
+echo $$
